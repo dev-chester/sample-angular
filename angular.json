@@ -28,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss"
+              "./node_modules/primeng/resources/themes/nova-dark/theme.css"
             ],
             "scripts": []
           },
